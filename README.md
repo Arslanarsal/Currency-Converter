@@ -12,7 +12,7 @@ A simple React application to convert currency amounts between different currenc
 ## Demo
 
 ```
-[](./assets/convertpkr.png)
+![App Screenshot](./src/assets/front.png)
 ```
 ## Installation
 
@@ -63,5 +63,5 @@ A custom hook to fetch currency information from an API.
 Feel free to fork the repository and submit pull requests.=
 
 ```
-[](./assets/convertpkr.png)
+![App Screenshot](./src/assets/back.png)
 ```
